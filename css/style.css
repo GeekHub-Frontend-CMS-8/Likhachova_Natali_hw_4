@@ -70,7 +70,7 @@ p {
     width: 170px;
     height: 170px;
 }
-.first_font_for_second_block {
+.large_letters {
     font-size: 50px;
     color: #ffffff;
     text-transform: uppercase;
@@ -78,7 +78,7 @@ p {
     font-weight: #ffffff00;
     line-height: 60px;
 }
-.second_font_for_second_block{
+.small_letters{
     font-size: 16px;
     line-height: 35px;
     text-transform: uppercase;
@@ -99,7 +99,7 @@ p {
 .for-img {
     margin-left: 900px;
 }
-.third_block{
+.about_me{
     height: 406px;
     background-color: #FFFFFF;
 
@@ -114,7 +114,7 @@ p {
     align-items: center;
 }
 
-.fourth_block {
+.expert_in {
     height: 1000px;
     font-size: 12px;
     font-weight: 400;
@@ -126,7 +126,7 @@ p {
 
 }
 
-.div_fourth_block{
+.div_block{
     width: 1300px;
     height: 1145px;
     display: flex;
@@ -134,23 +134,23 @@ p {
     align-items: center;
 }
 img {
-    border-color: black;
+    border-color: #000000;
     border: 2px;
 }
 
-.fourth_block_list{
+.block_list{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
 }
-.font_for_fourth_block{
+.font_block{
     color: #5a5a5a;
     font-family: Lato, sans-serif;
     font-size: 16px;
     width: 400px;
 
 }
-.font_for_fourth_block p{
+.font_block p{
     margin-top: 10px;
     font-size: 14px;
 }
@@ -168,14 +168,14 @@ h3 {
     padding-top: 90px;
 }
 
-.fifth_block{
+.latest_works{
     width: 1145px;
 
     background-color: #FFFFFF;
     margin-top: 70px;
 }
 
-.fifth_block h1{
+.latest_works h1{
     padding-bottom: 70px;
 }
 
@@ -192,12 +192,12 @@ h3 {
     padding: 40px 0;
 }
 
-.sixth_block{
+.clients{
     height: 320px;
     background-color: #f1f8ff;
 }
 
-.sixth_block h1{
+.clients h1{
     padding-top: 90px;
 }
 
@@ -209,7 +209,7 @@ h3 {
 }
 
 
-.seventh_block{
+.basement{
     height: 246px;
     background-color: #409aff;
 
@@ -220,12 +220,12 @@ h3 {
     justify-content: space-around;
     align-items: center;
 }
-.first_font_for_seventh_block {
+.first_basement {
     color: #ffffff;
     font-family: Lato - Light, sans-serif;
     font-weight: 300;
 }
-.second_font_for_seventh_block{
+.second_basement{
     color: #ffffff;
     font-family: Lato - Bold, sans-serif;
     font-weight: 700;
